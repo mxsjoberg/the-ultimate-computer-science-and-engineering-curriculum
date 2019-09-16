@@ -2,8 +2,8 @@
 
 ## <a name="content"></a> Content
 
-- [Preparatory](#preparatory)
-	- [Introduction to Linux and Unix](#preparatory-1)
+- [1. Let's get hacking!](#1)
+	- [1.1 General-purpose programming in Python](#1.1)
 - [Mathematics](#mathematics)
 	- [Precalculus](#mathematics-1)
 	- [Linear algebra](#mathematics-2)
@@ -32,16 +32,34 @@
 	- [Machine learning](#applications-4)
 	- [Robotics](#applications-5)
 
-## <a name="preparatory"></a> Preparatory (22 hours)
+## <a name="1"></a> 1. Let's get hacking!
 
 [Content](#content)
 
-### <a name="preparatory-1"></a> Introduction to Linux and Unix (22 hours)
+### <a name="1.1"></a> 1.1 General-purpose programming in Python
 
-| Course | Source | Effort | Mode | Prerequisites |
-| :----- | :----- | :----- | :--- | :------------ |
-[Linux Command Line Basics](https://eu.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 5 hours | self-paced | -
-[The Unix Workbench](https://www.coursera.org/learn/unix) | Johns Hopkins University | 17 hours | self-paced | -
+*Quick reference*
+
+- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+
+*Practice*
+
+- [HackerRank](https://www.hackerrank.com/domains/python)
+
+- [Project based learning](https://github.com/tuvtran/project-based-learning#python)
+
+*Reading list*
+
+| Title       | Type   | ISBN   | Source | Prerequisites |
+| :---------- | :----- | :----- | :----- | :------------ |
+[Think Python (How to Think Like a Computer Scientist)](https://www.amazon.com/Think-Python-Like-Computer-Scientist-ebook/dp/B018UXJ9EQ) | Textbook | 9781491939369 | Amazon | -
+[Learn Python The Hard Way](https://learnpythonthehardway.org/book/) | HTML, PDF | - | - | -
+
+*Progress*
+
+- [ ] Started
+- [ ] Almost there
+- [ ] Done
 
 ## <a name="mathematics"></a> Mathematics (710 hours)
 
