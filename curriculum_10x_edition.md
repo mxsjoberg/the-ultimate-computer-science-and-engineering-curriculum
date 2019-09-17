@@ -40,6 +40,7 @@
 	- [7.1 Logic programming in Prolog](#7.1)
 	- [7.2 Performance programming in C++](#7.2)
 	- [7.3 Parallel programming in Scala](#7.3)
+	- [7.4 Pure functional programming in Haskell](#7.4)
 
 - [8. Let's build some cool sh*t](#8)
 	- [8.1 Web technologies and cloud computing](#8.1)
@@ -264,7 +265,7 @@ Get comfortable working with statistics and probability.
 
 Any university-level introductory course on statistics and probability would do.
 
-### <a name="2.7"></a> 2.7 Discrete mathematics
+### <a name="2.7"></a> 2.7 Discrete mathematics (graphs and stuff)
 
 *Goal*
 
@@ -375,6 +376,7 @@ Get familiar with functional programming concepts (Standard ML, Racket, and Ruby
 *Practice*
 
 - [HackerRank: Ruby](https://www.hackerrank.com/domains/ruby)
+- [Projects for learning: Ruby](https://github.com/tuvtran/project-based-learning#ruby)
 
 *Reading list*
 
@@ -472,6 +474,10 @@ Get familiar with electrical engineering and circuit theory.
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
 | [Electric Circuits](https://www.amazon.com/Electric-Circuits-Global-Riedel-Nilsson/dp/1292060549/) | Textbook | 9781292060545 | Amazon | - |
+
+*I got fiat money to spend*
+
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
 ### <a name="5.2"></a> 5.2 Computer architecture
 
@@ -683,6 +689,37 @@ Get familiar with parallel programming (Scala is a good choice).
 
 [Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
+### <a name="7.4"></a> 7.4 Pure functional programming in Haskell
+
+*Goal*
+
+Get familiar with pure functional programming (Haskell is a good choice).
+
+*Quick reference*
+
+- [Learn X in Y minutes: Haskell](https://learnxinyminutes.com/docs/haskell/)
+
+*Practice*
+
+- [Projects for learning: Haskell](https://github.com/tuvtran/project-based-learning#haskell)
+
+*Reading list*
+
+| Title       | Type   | ISBN   | Source | Prerequisites |
+| :---------- | :----- | :----- | :----- | :------------ |
+| [Learn You a Haskell for Great Good! (A Beginner's Guide)](amazon.com/Learn-You-Haskell-Great-Good/dp/1593272839) | Textbook | 9781593272838 | Amazon | - |
+| [Haskell Documentation](https://www.haskell.org/documentation/) | HTML | - | - | - |
+
+*I hate reading*
+
+| Course | Source | Effort | Mode | Prerequisites |
+| :----- | :----- | :----- | :--- | :------------ |
+| [Functional Programming in Haskell (Supercharge Your Coding)](https://www.futurelearn.com/courses/functional-programming-haskell) | University of Glasgow (FutureLearn) | 24 hours | self-paced | - |
+
+*I got fiat money to spend*
+
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
+
 ## <a name="8"></a> 8. Let's build some cool sh*t
 
 [Content](#content)
@@ -707,6 +744,10 @@ Get comfortable working with various web technologies (Python Flask and MongoDB 
 | :----- | :----- | :----- | :--- | :------------ |
 | [Cloud Computing Applications, Part 1](https://www.coursera.org/learn/cloud-applications-part1) | University of Illinois at Urbana-Champaign (Coursera) | 13 hours | self-paced | - |
 | [Cloud Computing Applications, Part 2](https://www.coursera.org/learn/cloud-applications-part2) | University of Illinois at Urbana-Champaign (Coursera) | 15 hours | self-paced | Cloud Computing Applications, Part 1 |
+
+*I got fiat money to spend*
+
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
 ### <a name="8.2"></a> 8.2 Artificial intelligence and machine learning
 
