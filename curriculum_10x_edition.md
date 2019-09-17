@@ -90,7 +90,7 @@ Get fluent in at least one programming language (Python is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Think Python (How to Think Like a Computer Scientist)](https://www.amazon.com/Think-Python-Like-Computer-Scientist-ebook/dp/B018UXJ9EQ) | Textbook | 9781491939369 | Amazon | -
+| [Think Python (How to Think Like a Computer Scientist)](https://amzn.to/2O3YuO5) | Textbook | 9781491939369 | Amazon | -
 [Learn Python The Hard Way](https://learnpythonthehardway.org/book/) | HTML, PDF | - | - | - |
 
 *I hate reading*
@@ -151,7 +151,7 @@ Get comfortable with linear algebra concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Linear Algebra (Undergraduate Texts in Mathematics)](https://www.amazon.com/Linear-Algebra-Undergraduate-Texts-Mathematics/dp/0387964126) | Textbook | 9780387964126 | Amazon | Precalculus |
+| [Linear Algebra (Undergraduate Texts in Mathematics)](https://amzn.to/30oVoqk) | Textbook | 9780387964126 | Amazon | Precalculus |
 
 *I hate reading*
 
@@ -178,7 +178,7 @@ Get comfortable with calculus concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Calculus With Applications (Undergraduate Texts in Mathematics)](https://www.amazon.com/Calculus-Applications-Undergraduate-Texts-Mathematics-ebook/dp/B00Q2RMSH8) | Textbook | 9781461479451 | Amazon | Linear Algebra |
+| [Calculus With Applications (Undergraduate Texts in Mathematics)](https://amzn.to/3042jdg) | Textbook | 9781461479451 | Amazon | Linear Algebra |
 
 *I hate reading*
 
@@ -206,7 +206,7 @@ Get familiar with multivariable calculus concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Multivariable Calculus with Applications (Undergraduate Texts in Mathematics)](https://www.amazon.com/Multivariable-Calculus-Applications-Undergraduate-Mathematics/dp/3319740725) | Textbook | 9783319740720 | Amazon | Calculus |
+| [Multivariable Calculus with Applications (Undergraduate Texts in Mathematics)](https://amzn.to/30b4ZGg) | Textbook | 9783319740720 | Amazon | Calculus |
 
 *I got fiat money to spend*
 
@@ -226,7 +226,7 @@ Get familiar with differential equations concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Differential Equations: A Primer for Scientists and Engineers (Springer Undergraduate Texts in Mathematics and Technology)](https://www.amazon.com/Differential-Equations-Scientists-Undergraduate-Mathematics/dp/3319502239) | Textbook | 9783319502236 | Amazon | Calculus |
+| [Differential Equations: A Primer for Scientists and Engineers (Springer Undergraduate Texts in Mathematics and Technology)](https://amzn.to/2O7MvyQ) | Textbook | 9783319502236 | Amazon | Calculus |
 
 *I hate reading*
 
@@ -255,7 +255,7 @@ Get comfortable working with statistics and probability.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Think Stats (Exploratory Data Analysis)](https://www.amazon.com/Think-Stats-Exploratory-Data-Analysis/dp/1491907339 ) | Textbook | 9781491907337 | Amazon | - |
+| [Think Stats (Exploratory Data Analysis)](https://amzn.to/30boLQO) | Textbook | 9781491907337 | Amazon | - |
 
 *I hate reading*
 
@@ -313,8 +313,8 @@ Get comfortable with object-oriented programming (Java is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Think Java (How to Think Like a Computer Scientist)](https://www.amazon.com/Think-Java-Like-Computer-Scientist/dp/1491929561) | Textbook | 9781491929568 | Amazon | - |
-| [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) | Textbook | 9780321356680 | Amazon | - |
+| [Think Java (How to Think Like a Computer Scientist)](https://amzn.to/2O8wRTW) | Textbook | 9781491929568 | Amazon | - |
+| [Effective Java](https://amzn.to/307A9Oo) | Textbook | 9780321356680 | Amazon | - |
 
 *I hate reading*
 
@@ -347,7 +347,7 @@ Get comfortable with lower-level programming (C is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) | Textbook |  9780131103627 | Amazon | - |
+| [C Programming Language](https://amzn.to/2O3YYUp) | Textbook |  9780131103627 | Amazon | - |
 | [Learn C The Hard Way](https://learncodethehardway.org/c/) | HTML, PDF | - | - | - |
 
 *I hate reading*
@@ -385,9 +385,9 @@ Get familiar with functional programming concepts (Standard ML, Racket, and Ruby
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [ML for the Working Programmer](https://www.amazon.com/ML-Working-Programmer-2nd-Paulson/dp/052156543X/) | Textbook | 9780521565431 | Amazon | - |
+| [ML for the Working Programmer](https://amzn.to/300dqmR) | Textbook | 9780521565431 | Amazon | - |
 | [Racket Documentation](https://docs.racket-lang.org/) | HTML | - | - | - |
-| [The Ruby Programming Language (Everything You Need to Know)](https://www.amazon.com/Ruby-Programming-Language-Everything-Need/dp/0596516177) | Textbook | 9780596516178 | Amazon | - |
+| [The Ruby Programming Language (Everything You Need to Know)](https://amzn.to/2O67gev) | Textbook | 9780596516178 | Amazon | - |
 
 *I hate reading*
 
@@ -415,7 +415,7 @@ Get comfortable with computing and computational complexity concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Introduction to the Theory of Computation](https://www.amazon.com/Introduction-Theory-Computation-Michael-Sipser/dp/113318779X/) | Textbook | 9781133187790 | Amazon | - |
+| [Introduction to the Theory of Computation](https://amzn.to/306dodJ) | Textbook | 9781133187790 | Amazon | - |
 
 *I hate reading*
 
@@ -443,7 +443,7 @@ Get comfortable working with algorithms.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844) | Textbook | 9780262033848 | Amazon | - |
+| [Introduction to Algorithms](https://amzn.to/2O6nAMc) | Textbook | 9780262033848 | Amazon | - |
 
 *I hate reading*
 
@@ -476,7 +476,7 @@ Get familiar with electrical engineering and circuit theory.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Electric Circuits](https://www.amazon.com/Electric-Circuits-Global-Riedel-Nilsson/dp/1292060549/) | Textbook | 9781292060545 | Amazon | - |
+| [Electric Circuits](https://amzn.to/32OvFJu) | Textbook | 9781292060545 | Amazon | - |
 
 *I got fiat money to spend*
 
@@ -496,7 +496,7 @@ Get familiar with computer architecture.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [The Elements of Computing Systems (Building a Modern Computer from First Principles)](https://www.amazon.com/Elements-Computing-Systems-Building-Principles/dp/0262640686/) | Textbook | 9780262640688 | Amazon | - |
+| [The Elements of Computing Systems (Building a Modern Computer from First Principles)](https://amzn.to/2O7MKtK) | Textbook | 9780262640688 | Amazon | - |
 
 *I hate reading*
 
@@ -519,7 +519,7 @@ Get comfortable with operating system concepts (in particular Unix, command-line
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [The Linux Programming Interface (A Linux and UNIX System Programming Handbook)](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200) | Textbook | 9781593272203 | Amazon | - |
+| [The Linux Programming Interface (A Linux and UNIX System Programming Handbook)](https://amzn.to/305I65T) | Textbook | 9781593272203 | Amazon | - |
 
 *I hate reading*
 
@@ -547,7 +547,7 @@ Get familiar with classical mechanics concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Physics for Scientists and Engineers with Modern Physics](https://www.amazon.com/Physics-Scientists-Engineers-Modern/dp/1337553298) | Textbook | 9781337553292 | Amazon | - |
+| [Physics for Scientists and Engineers with Modern Physics](https://amzn.to/2O8qY9w) | Textbook | 9781337553292 | Amazon | - |
 
 *I hate reading*
 
@@ -569,7 +569,7 @@ Get familiar with electromagnetism concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Primary Theory of Electromagnetics (Power Systems)](https://www.amazon.com/Primary-Theory-Electromagnetics-Power-Systems-ebook/dp/B00EWCHNV6) | Textbook | 9789400771420 | Amazon | - |
+| [Primary Theory of Electromagnetics (Power Systems)](https://amzn.to/2O67vGr) | Textbook | 9789400771420 | Amazon | - |
 
 *I hate reading*
 
@@ -591,7 +591,7 @@ Get familiar with quantum mechanics concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Introduction to Quantum Mechanics](https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/1107189632) |        | Textbook | 9781107189638 | Amazon | - |
+| [Introduction to Quantum Mechanics](https://amzn.to/2O67LVV) |        | Textbook | 9781107189638 | Amazon | - |
 
 *I hate reading*
 
@@ -621,7 +621,7 @@ Get familiar with logic programming (Prolog is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Prolog Programming for Artificial Intelligence](https://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461/) | Textbook | 9780321417466 | Amazon | - |
+| [Prolog Programming for Artificial Intelligence](https://amzn.to/2LCN6qA) | Textbook | 9780321417466 | Amazon | - |
 | [Learn Prolog Now!](http://www.learnprolognow.org/index.php) | HTML | - | - | - |
 
 *I hate reading*
@@ -653,7 +653,7 @@ Get familiar with performance programming (C++ is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) | Textbook | 9780134997834 | Amazon | - |
+| [A Tour of C++](https://amzn.to/2QfkVCs) | Textbook | 9780134997834 | Amazon | - |
 
 *I hate reading*
 
@@ -680,7 +680,7 @@ Get familiar with parallel programming (Scala is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Programming in Scala](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687) | Textbook | 9780981531687 | Amazon | - |
+| [Programming in Scala](https://amzn.to/2O6nZ1a) | Textbook | 9780981531687 | Amazon | - |
 
 *I hate reading*
 
@@ -710,7 +710,7 @@ Get familiar with pure functional programming (Haskell is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Learn You a Haskell for Great Good! (A Beginner's Guide)](amazon.com/Learn-You-Haskell-Great-Good/dp/1593272839) | Textbook | 9781593272838 | Amazon | - |
+| [Learn You a Haskell for Great Good! (A Beginner's Guide)](https://amzn.to/2LBu0l1) | Textbook | 9781593272838 | Amazon | - |
 | [Haskell Documentation](https://www.haskell.org/documentation/) | HTML | - | - | - |
 
 *I hate reading*
@@ -737,9 +737,9 @@ Get comfortable working with various web technologies (Python Flask and MongoDB 
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Flask Web Development (Developing Web Applications with Python)](https://www.amazon.com/Flask-Web-Development-Developing-Applications/dp/1491991739) | Textbook | 9781491991732 | Amazon | - |
+| [Flask Web Development (Developing Web Applications with Python)](https://amzn.to/2O6oAzW) | Textbook | 9781491991732 | Amazon | - |
 | [Flask documentation](http://flask.palletsprojects.com/en/1.1.x/) | HTML | - | - | - |
-| [MongoDB (The Definitive Guide)](https://www.amazon.com/MongoDB-Definitive-Powerful-Scalable-Storage/dp/1449344682) | Textbook | 9781449344689 | Amazon | - |
+| [MongoDB (The Definitive Guide)](https://amzn.to/2O3ZbXH) | Textbook | 9781449344689 | Amazon | - |
 
 *I hate reading*
 
@@ -762,8 +762,8 @@ Get comfortable working with artificial intelligence and machine learning concep
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Artificial Intelligence (A Modern Approach)](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518) | Textbook | 9789332543515 | Amazon | - |
-| [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | Textbook | 9781491962299 | Amazon | - |
+| [Artificial Intelligence (A Modern Approach)](https://amzn.to/30kknv2) | Textbook | 9789332543515 | Amazon | - |
+| [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://amzn.to/2M0wzf4) | Textbook | 9781491962299 | Amazon | - |
 
 *I hate reading*
 
@@ -785,8 +785,8 @@ Get comfortable working with robotics and computer vision concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Modern Robotics (Mechanics, Planning, and Control)](https://www.amazon.com/Modern-Robotics-Mechanics-Planning-Control/dp/1107156300) | Textbook | 9781107156302 | Amazon | - |
-| [Computer Vision (Algorithms and Applications)](https://www.amazon.com/Computer-Vision-Algorithms-Applications-Science/dp/1848829345) | Textbook | 9781848829343 | Amazon | - |
+| [Modern Robotics (Mechanics, Planning, and Control)](https://amzn.to/306dMsH) | Textbook | 9781107156302 | Amazon | - |
+| [Computer Vision (Algorithms and Applications)](https://amzn.to/32OvMVq) | Textbook | 9781848829343 | Amazon | - |
 
 *I hate reading*
 
