@@ -2,7 +2,8 @@
 
 ## <a name="content"></a> Content
 
-- [0. Things to do first](#0)
+- [0. Start here](#0)
+	- [0.1 Things to do first](#0.1) 
 
 - [1. Let's get hacking!](#1)
 	- [1.1 General-purpose programming in Python](#1.1)
@@ -30,19 +31,26 @@
 	- [5.2 Computer architecture](#5.2)
 	- [5.3 Operating systems](#5.3)
 
-- [6. More science (because we smart)](#6)
+- [6. The other science (because we smart)](#6)
 	- [6.1 Classical mechanics](#6.1)
 	- [6.1 Electromagnetism](#6.2)
 	- [6.3 Quantum mechanics](#6.3)
 
-- [7. Let's build some cool sh*t](#7)
-	- [7.1 Web technologies and cloud computing](#7.1)
-	- [7.2 Artificial intelligence and machine learning](#7.2)
-	- [7.3 Robotics and computer vision](#7.3)
+- [7. Even moar programming skills (because unlimited power!)](#7)
+	- [7.1 Logic programming in Prolog](#7.1)
+	- [7.2 Performance programming in C++](#7.2)
+	- [7.3 Parallel programming in Scala](#7.3)
 
-## <a name="0"></a> 0. Things to do first
+- [8. Let's build some cool sh*t](#8)
+	- [8.1 Web technologies and cloud computing](#8.1)
+	- [8.2 Artificial intelligence and machine learning](#8.2)
+	- [8.3 Robotics and computer vision](#8.3)
+
+## <a name="0"></a> 0. Start here
 
 [Content](#content)
+
+### <a name="0.1"></a> 0.1 Things to do first
 
 *Goal*
 
@@ -66,34 +74,34 @@ Get fluent in at least one programming language (Python is a good choice).
 
 *Quick reference*
 
-- [Learn X in Y minutes](https://learnxinyminutes.com/docs/python/)
+- [Learn X in Y minutes: Python](https://learnxinyminutes.com/docs/python/)
 
 *Practice*
 
-- [HackerRank](https://www.hackerrank.com/domains/python)
+- [HackerRank: Python](https://www.hackerrank.com/domains/python)
 
-- [Project based learning](https://github.com/tuvtran/project-based-learning#python)
+- [Project based learning: Python](https://github.com/tuvtran/project-based-learning#python)
 
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-[Think Python (How to Think Like a Computer Scientist)](https://www.amazon.com/Think-Python-Like-Computer-Scientist-ebook/dp/B018UXJ9EQ) | Textbook | 9781491939369 | Amazon | -
-[Learn Python The Hard Way](https://learnpythonthehardway.org/book/) | HTML, PDF | - | - | -
+| [Think Python (How to Think Like a Computer Scientist)](https://www.amazon.com/Think-Python-Like-Computer-Scientist-ebook/dp/B018UXJ9EQ) | Textbook | 9781491939369 | Amazon | -
+[Learn Python The Hard Way](https://learnpythonthehardway.org/book/) | HTML, PDF | - | - | - |
 
 *I hate reading*
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Getting Started with Python](https://www.coursera.org/learn/python) | University of Michigan (Coursera) | 12 hours | self-paced | -
-[Python Data Structures](https://www.coursera.org/learn/python-data) | University of Michigan (Coursera) | 10 hours | self-paced | Getting Started with Python
-[Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | University of Michigan (Coursera) | 15 hours | self-paced | Python Data Structures
-[Using Databases with Python](https://www.coursera.org/learn/python-databases) | University of Michigan (Coursera) | 12 hours | self-paced | Using Python to Access Web Data
-[Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | University of Michigan (Coursera) | 8 hours | self-paced | Using Databases with Python
+| [Getting Started with Python](https://www.coursera.org/learn/python) | University of Michigan (Coursera) | 12 hours | self-paced | - |
+| [Python Data Structures](https://www.coursera.org/learn/python-data) | University of Michigan (Coursera) | 10 hours | self-paced | Getting Started with Python |
+| [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | University of Michigan (Coursera) | 15 hours | self-paced | Python Data Structures |
+| [Using Databases with Python](https://www.coursera.org/learn/python-databases) | University of Michigan (Coursera) | 12 hours | self-paced | Using Python to Access Web Data |
+| [Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | University of Michigan (Coursera) | 8 hours | self-paced | Using Databases with Python |
 
 *I got fiat money to spend*
 
-Donate it to me! 
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
 ## <a name="2"></a> 2. Do the math... Yea
 
@@ -107,7 +115,7 @@ Get comfortable with precalculus concepts.
 
 *Practice*
 
-- [Khan Academy](https://www.khanacademy.org/math/precalculus)
+- [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
 
 *Reading list*
 
@@ -119,7 +127,7 @@ Get comfortable with precalculus concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Arizona State University (edX) | 135 hours | self-paced | -
+| [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Arizona State University (edX) | 135 hours | self-paced | - |
 
 *I got fiat money to spend*
 
@@ -133,7 +141,7 @@ Get comfortable with linear algebra concepts.
 
 *Practice*
 
-- [Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+- [Khan Academy: Linear Algebra](https://www.khanacademy.org/math/linear-algebra)
 
 *Reading list*
 
@@ -145,7 +153,7 @@ Get comfortable with linear algebra concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-2) | The University of Texas at Austin (edX) | 90 hours | self-paced | Precalculus |
+| [Linear Algebra: Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-2) | The University of Texas at Austin (edX) | 90 hours | self-paced | Precalculus |
 
 *I got fiat money to spend*
 
@@ -172,13 +180,13 @@ Get comfortable with calculus concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Massachusetts Institute of Technology (edX) | 72 hours | self-paced | Precalculus
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Massachusetts Institute of Technology (edX) | 90 hours | self-paced | Differentiation
-[Calculus 1C: Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Massachusetts Institute of Technology (edX) | 48 hours | self-paced | Integration
+| [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | Massachusetts Institute of Technology (edX) | 72 hours | self-paced | Precalculus |
+| [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | Massachusetts Institute of Technology (edX) | 90 hours | self-paced | Differentiation |
+| [Calculus 1C: Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | Massachusetts Institute of Technology (edX) | 48 hours | self-paced | Integration |
 
 *I got fiat money to spend*
 
-Any university-level course on calculus should do.
+Any university-level course on differential- and integral calculus should do.
 
 ### <a name="2.4"></a> 2.4 Multivariable calculus
 
@@ -220,10 +228,10 @@ Get familiar with differential equations concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x) | Massachusetts Institute of Technology (edX) | 75 hours | self-paced | Differentiation; Integration; Coordinate Systems and Infinite Series
-[Differential Equations, 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems-mitx-18-032x) | Massachusetts Institute of Technology (edX) | 18 hours | self-paced | Introduction to Differential Equations
-[Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations) | Massachusetts Institute of Technology (edX) | 45 hours | self-paced | Differential Equations, 2x2 Systems
-[Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial-differential-equations) | Massachusetts Institute of Technology (edX) | 45 hours | self-paced | Linear Algebra and NxN Systems of Differential Equations
+| [Introduction to Differential Equations](https://www.edx.org/course/introduction-differential-equations-mitx-18-031x) | Massachusetts Institute of Technology (edX) | 75 hours | self-paced | Differentiation; Integration; Coordinate Systems and Infinite Series |
+| [Differential Equations, 2x2 Systems](https://www.edx.org/course/differential-equations-2x2-systems-mitx-18-032x) | Massachusetts Institute of Technology (edX) | 18 hours | self-paced | Introduction to Differential Equations |
+| [Linear Algebra and NxN Systems of Differential Equations](https://www.edx.org/course/differential-equations-linear-algebra-and-nxn-systems-of-differential-equations) | Massachusetts Institute of Technology (edX) | 45 hours | self-paced | Differential Equations, 2x2 Systems |
+| [Fourier Series and Partial Differential Equations](https://www.edx.org/course/differential-equations-fourier-series-and-partial-differential-equations) | Massachusetts Institute of Technology (edX) | 45 hours | self-paced | Linear Algebra and NxN Systems of Differential Equations |
 
 *I got fiat money to spend*
 
@@ -249,8 +257,8 @@ Get comfortable working with statistics and probability.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro) | Duke University (Coursera) | 22 hours | self-paced | -
-[Basic Statistics](https://www.coursera.org/learn/basic-statistics) | Duke University (Coursera) | 36 hours | self-paced | Introduction to Probability and Data
+| [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro) | Duke University (Coursera) | 22 hours | self-paced | - |
+| [Basic Statistics](https://www.coursera.org/learn/basic-statistics) | Duke University (Coursera) | 36 hours | self-paced | Introduction to Probability and Data |
 
 *I got fiat money to spend*
 
@@ -272,7 +280,7 @@ Get comfortable with discrete mathematics concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics) | Shanghai Jiao Tong University (Coursera) | 38 hours | self-paced | -
+| [Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics) | Shanghai Jiao Tong University (Coursera) | 38 hours | self-paced | - |
 
 *I got fiat money to spend*
 
@@ -290,30 +298,31 @@ Get comfortable with object-oriented programming (Java is a good choice).
 
 *Quick reference*
 
-- [Learn X in Y minutes](https://learnxinyminutes.com/docs/java/)
+- [Learn X in Y minutes: Java](https://learnxinyminutes.com/docs/java/)
 
 *Practice*
 
-- [HackerRank](https://www.hackerrank.com/domains/java)
-- [Projects for learning](https://github.com/tuvtran/project-based-learning#java)
+- [HackerRank: Java](https://www.hackerrank.com/domains/java)
+- [Projects for learning: Java](https://github.com/tuvtran/project-based-learning#java)
 
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
 | [Think Java (How to Think Like a Computer Scientist)](https://www.amazon.com/Think-Java-Like-Computer-Scientist/dp/1491929561) | Textbook | 9781491929568 | Amazon | - |
+| [Effective Java](https://www.amazon.com/Effective-Java-2nd-Joshua-Bloch/dp/0321356683) | Textbook | 9780321356680 | Amazon | - |
 
 *I hate reading*
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University (Coursera) | 24 hours | self-paced | -
-[Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles) | Duke University (Coursera) | 21 hours | self-paced | Object Oriented Programming in Java
-[Build a Recommendation System](https://www.coursera.org/learn/java-programming-recommender) | Duke University (Coursera) | 8 hours | self-paced | Principles of Software Design
+| [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University (Coursera) | 24 hours | self-paced | - |
+| [Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles) | Duke University (Coursera) | 21 hours | self-paced | Object Oriented Programming in Java |
+| [Build a Recommendation System](https://www.coursera.org/learn/java-programming-recommender) | Duke University (Coursera) | 8 hours | self-paced | Principles of Software Design |
 
 *I got fiat money to spend*
 
-Donate it to me!
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
 ### <a name="3.2"></a> 3.2 Lower-level programming in C
 
@@ -323,32 +332,33 @@ Get comfortable with lower-level programming (C is a good choice).
 
 *Quick reference*
 
-- [Learn X in Y minutes](https://learnxinyminutes.com/docs/c/)
+- [Learn X in Y minutes: C](https://learnxinyminutes.com/docs/c/)
 
 *Practice*
 
-- [HackerRank](https://www.hackerrank.com/domains/c)
-- [Projects for learning](https://github.com/tuvtran/project-based-learning#cc)
+- [HackerRank: C](https://www.hackerrank.com/domains/c)
+- [Projects for learning: C](https://github.com/tuvtran/project-based-learning#cc)
 
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
+| [C Programming Language](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628) | Textbook |  9780131103627 | Amazon | - |
 | [Learn C The Hard Way](https://learncodethehardway.org/c/) | HTML, PDF | - | - | - |
 
 *I hate reading*
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Modular Programming and Memory Management](https://www.edx.org/course/modular-programming-and-memory-management) | Dartmouth College-IMT (edX) | 14 hours | self-paced | Language Foundations
-[Pointers and Memory Management](https://www.edx.org/course/programming-in-c-pointers-and-memory-management) | Dartmouth College-IMT (edX) | 14 hours | self-paced | Modular Programming and Memory Management
-[Advanced Data Types](https://www.edx.org/course/c-programming-advanced-data-types) | Dartmouth College-IMT (edX) | 28 hours | self-paced | Pointers and Memory Management
-[The Command Line Interface](https://www.edx.org/course/linux-basics-the-command-line-interface) | Dartmouth College-IMT (edX) | 21 hours | self-paced | Advanced Data Types
-[Using Linux Tools and Libraries](https://www.edx.org/course/programming-in-c-using-linux-tools-and-libraries) | Dartmouth College-IMT (edX) | 28 hours | self-paced | The Command Line Interface
+| [Modular Programming and Memory Management](https://www.edx.org/course/modular-programming-and-memory-management) | Dartmouth College-IMT (edX) | 14 hours | self-paced | - |
+| [Pointers and Memory Management](https://www.edx.org/course/programming-in-c-pointers-and-memory-management) | Dartmouth College-IMT (edX) | 14 hours | self-paced | Modular Programming and Memory Management |
+| [Advanced Data Types](https://www.edx.org/course/c-programming-advanced-data-types) | Dartmouth College-IMT (edX) | 28 hours | self-paced | Pointers and Memory Management |
+| [The Command Line Interface](https://www.edx.org/course/linux-basics-the-command-line-interface) | Dartmouth College-IMT (edX) | 21 hours | self-paced | Advanced Data Types |
+| [Using Linux Tools and Libraries](https://www.edx.org/course/programming-in-c-using-linux-tools-and-libraries) | Dartmouth College-IMT (edX) | 28 hours | self-paced | The Command Line Interface |
 
 *I got fiat money to spend*
 
-Donate it to me!
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
 ### <a name="3.3"></a> 3.3 Functional programming in Standard ML, Racket, and Ruby
 
@@ -362,23 +372,29 @@ Get familiar with functional programming concepts (Standard ML, Racket, and Ruby
 - [Learn X in Y minutes: Racket](https://learnxinyminutes.com/docs/racket/)
 - [Learn X in Y minutes: Ruby](https://learnxinyminutes.com/docs/ruby/)
 
+*Practice*
+
+- [HackerRank: Ruby](https://www.hackerrank.com/domains/ruby)
+
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-|             |        |        |        |               |
+| [ML for the Working Programmer](https://www.amazon.com/ML-Working-Programmer-2nd-Paulson/dp/052156543X/) | Textbook | 9780521565431 | Amazon | - |
+| [Racket Documentation](https://docs.racket-lang.org/) | HTML | - | - | - |
+| [The Ruby Programming Language (Everything You Need to Know)](https://www.amazon.com/Ruby-Programming-Language-Everything-Need/dp/0596516177) | Textbook | 9780596516178 | Amazon | - |
 
 *I hate reading*
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | University of Washington (Coursera) | 35 hours | self-paced | -
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | University of Washington (Coursera) | 19 hours | self-paced | Programming Languages, Part A
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | University of Washington (Coursera) | 21 hours | self-paced | Programming Languages, Part B
+| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | University of Washington (Coursera) | 35 hours | self-paced | - |
+| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | University of Washington (Coursera) | 19 hours | self-paced | Programming Languages, Part A |
+| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | University of Washington (Coursera) | 21 hours | self-paced | Programming Languages, Part B |
 
 *I got fiat money to spend*
 
-Donate it to me!
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
 ## <a name="4"></a> 4. The science in computer science
 
@@ -400,9 +416,9 @@ Get comfortable with computing and computational complexity concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University (Coursera) | 28 hours | self-paced | -
-[Principles of Computing, Part 1](https://www.coursera.org/learn/principles-of-computing-1) | Rice University (Coursera) | 23 hours | self-paced | -
-[Principles of Computing, Part 2](https://www.coursera.org/learn/principles-of-computing-2) | Rice University (Coursera) | 19 hours | self-paced | Principles of Computing, Part 1
+| [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University (Coursera) | 28 hours | self-paced | - |
+| [Principles of Computing, Part 1](https://www.coursera.org/learn/principles-of-computing-1) | Rice University (Coursera) | 23 hours | self-paced | - |
+| [Principles of Computing, Part 2](https://www.coursera.org/learn/principles-of-computing-2) | Rice University (Coursera) | 19 hours | self-paced | Principles of Computing, Part 1 |
 
 *I got fiat money to spend*
 
@@ -428,10 +444,10 @@ Get comfortable working with algorithms.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | Stanford University (Coursera) | 21 hours | self-paced | -
-[Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | Stanford University (Coursera) | 18 hours | self-paced | Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-[Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | Stanford University (Coursera) | 22 hours | self-paced | Graph Search, Shortest Paths, and Data Structures
-[Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | Stanford University (Coursera) | 19 hours | self-paced | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
+| [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | Stanford University (Coursera) | 21 hours | self-paced | - |
+| [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | Stanford University (Coursera) | 18 hours | self-paced | Divide and Conquer, Sorting and Searching, and Randomized Algorithms |
+| [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | Stanford University (Coursera) | 22 hours | self-paced | Graph Search, Shortest Paths, and Data Structures |
+| [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | Stanford University (Coursera) | 19 hours | self-paced | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming |
 
 *I got fiat money to spend*
 
@@ -477,8 +493,8 @@ Get familiar with computer architecture.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Build a Modern Computer from First Principles, Part 1](https://www.coursera.org/learn/build-a-computer) | The Hebrew University of Jerusalem (Coursera) | 19 hours | self-paced | -
-[Build a Modern Computer from First Principles, Part 2](https://www.coursera.org/learn/nand2tetris2) | The Hebrew University of Jerusalem (Coursera) | 36 hours | self-paced | -
+| [Build a Modern Computer from First Principles, Part 1](https://www.coursera.org/learn/build-a-computer) | The Hebrew University of Jerusalem (Coursera) | 19 hours | self-paced | - |
+| [Build a Modern Computer from First Principles, Part 2](https://www.coursera.org/learn/nand2tetris2) | The Hebrew University of Jerusalem (Coursera) | 36 hours | self-paced | - |
 
 *I got fiat money to spend*
 
@@ -500,15 +516,15 @@ Get comfortable with operating system concepts (in particular Unix, command-line
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-[Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) | Georgia Institute of Technology (Udacity) | 40 hours | self-paced | -
-[Advanced Operating Systems](https://eu.udacity.com/course/advanced-operating-systems--ud189) | Georgia Institute of Technology (Udacity) | 40 hours | self-paced | Introduction to Operating Systems
-[The Unix Workbench](https://www.coursera.org/learn/unix) | John Hopkins University (Coursera) | 17 hours | self-paced | -
+| [Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) | Georgia Institute of Technology (Udacity) | 40 hours | self-paced | - |
+| [Advanced Operating Systems](https://eu.udacity.com/course/advanced-operating-systems--ud189) | Georgia Institute of Technology (Udacity) | 40 hours | self-paced | Introduction to Operating Systems |
+| [The Unix Workbench](https://www.coursera.org/learn/unix) | John Hopkins University (Coursera) | 17 hours | self-paced | - |
 
 *I got fiat money to spend*
 
 Any university-level intermediate course on operating systems would do.
 
-## <a name="6"></a> 6. More science (because we smart)
+## <a name="6"></a> 6. The other science (because we smart)
 
 [Content](#content)
 
@@ -578,11 +594,100 @@ Get familiar with quantum mechanics concepts.
 
 Any university-level intermediate course on electromagnetism would do.
 
-## <a name="7"></a> 7. Buildings cool sh*t
+## <a name="7"></a> 7. Even moar programming skills (because unlimited power!)
 
 [Content](#content)
 
-### <a name="7.1"></a> 7.1 Web technologies and cloud computing
+### <a name="7.1"></a> 7.1 Logic programming in Prolog
+
+*Goal*
+
+Get familiar with logic programming (Prolog is a good choice).
+
+*Quick reference*
+
+- [The Power of Prolog](https://www.metalevel.at/prolog)
+
+*Reading list*
+
+| Title       | Type   | ISBN   | Source | Prerequisites |
+| :---------- | :----- | :----- | :----- | :------------ |
+| [Prolog Programming for Artificial Intelligence](https://www.amazon.com/Programming-Artificial-Intelligence-International-Computer/dp/0321417461/) | Textbook | 9780321417466 | Amazon | - |
+| [Learn Prolog Now!](http://www.learnprolognow.org/index.php) | HTML | - | - | - |
+
+*I hate reading*
+
+| Course | Source | Effort | Mode | Prerequisites |
+| :----- | :----- | :----- | :--- | :------------ |
+| [Prolog Language (Syntax and Semantics)](https://www.youtube.com/playlist?list=PLEvH6T-1oh75UagVp5BqeOVageBljdmaC) | Youtube | - | self-paced | - |
+
+*I got fiat money to spend*
+
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
+
+### <a name="7.2"></a> 7.2 Performance programming in C++
+
+*Goal*
+
+Get familiar with performance programming (C++ is a good choice).
+
+*Quick reference*
+
+- [Learn X in Y minutes: C++](https://learnxinyminutes.com/docs/c++/)
+
+*Practice*
+
+- [HackerRank: C++](https://www.hackerrank.com/domains/cpp)
+- [Projects for learning: C++](https://github.com/tuvtran/project-based-learning#cc)
+
+*Reading list*
+
+| Title       | Type   | ISBN   | Source | Prerequisites |
+| :---------- | :----- | :----- | :----- | :------------ |
+| [A Tour of C++](https://www.amazon.com/Tour-2nd-Depth-Bjarne-Stroustrup/dp/0134997832) | Textbook | 9780134997834 | Amazon | - |
+
+*I hate reading*
+
+| Course | Source | Effort | Mode | Prerequisites |
+| :----- | :----- | :----- | :--- | :------------ |
+| [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a) | UC Santa Cruz (Coursera) | 17 hours | self-paced | - |
+| [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b) | UC Santa Cruz (Coursera) | 14 hours | self-paced | C++ For C Programmers, Part A |
+
+*I got fiat money to spend*
+
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
+
+### <a name="7.3"></a> 7.3 Parallel programming in Scala
+
+*Goal*
+
+Get familiar with parallel programming (Scala is a good choice).
+
+*Quick reference*
+
+- [Learn X in Y minutes: Scala](https://learnxinyminutes.com/docs/scala/)
+
+*Reading list*
+
+| Title       | Type   | ISBN   | Source | Prerequisites |
+| :---------- | :----- | :----- | :----- | :------------ |
+| [Programming in Scala](https://www.amazon.com/Programming-Scala-Updated-2-12/dp/0981531687) | Textbook | 9780981531687 | Amazon | - |
+
+*I hate reading*
+
+| Course | Source | Effort | Mode | Prerequisites |
+| :----- | :----- | :----- | :--- | :------------ |
+| [Parallel programming](https://www.coursera.org/learn/parprog1) | EPFL (Coursera) | 16 hours | self-paced | - |
+
+*I got fiat money to spend*
+
+[Donate it to me!](https://www.paypal.me/michaelsjoeberg)
+
+## <a name="8"></a> 8. Let's build some cool sh*t
+
+[Content](#content)
+
+### <a name="8.1"></a> 8.1 Web technologies and cloud computing
 
 *Goal*
 
@@ -603,7 +708,7 @@ Get comfortable working with various web technologies (Python Flask and MongoDB 
 | [Cloud Computing Applications, Part 1](https://www.coursera.org/learn/cloud-applications-part1) | University of Illinois at Urbana-Champaign (Coursera) | 13 hours | self-paced | - |
 | [Cloud Computing Applications, Part 2](https://www.coursera.org/learn/cloud-applications-part2) | University of Illinois at Urbana-Champaign (Coursera) | 15 hours | self-paced | Cloud Computing Applications, Part 1 |
 
-### <a name="7.2"></a> 7.2 Artificial intelligence and machine learning
+### <a name="8.2"></a> 8.2 Artificial intelligence and machine learning
 
 *Goal*
 
@@ -613,7 +718,6 @@ Get comfortable working with artificial intelligence and machine learning concep
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Learn Prolog Now! (Logic programming with Prolog)](http://www.learnprolognow.org/index.php) | HTML | - | - | - |
 | [Artificial Intelligence (A Modern Approach)](https://www.amazon.com/Artificial-Intelligence-Approach-Stuart-Russell/dp/9332543518) | Textbook | 9789332543515 | Amazon | - |
 | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291) | Textbook | 9781491962299 | Amazon | - |
 
@@ -627,7 +731,7 @@ Get comfortable working with artificial intelligence and machine learning concep
 
 Any university-level intermediate to advanced course on artificial intelligence and machine learning would do.
 
-### <a name="7.3"></a> 7.3 Robotics and computer vision
+### <a name="8.3"></a> 8.3 Robotics and computer vision
 
 *Goal*
 
