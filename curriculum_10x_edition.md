@@ -2,7 +2,7 @@
 
 ## <a name="content"></a> Content
 
-- [0. Start here](#0)
+- [0. BEGIN](#0)
 	- [0.1 Things to do first](#0.1) 
 
 - [1. Let's get hacking!](#1)
@@ -47,7 +47,10 @@
 	- [8.2 Artificial intelligence and machine learning](#8.2)
 	- [8.3 Robotics and computer vision](#8.3)
 
-## <a name="0"></a> 0. Start here
+- [9. END](#0)
+	- [9.1 Things to do now](#9.1) 
+
+## <a name="0"></a> 0. BEGIN
 
 [Content](#content)
 
@@ -61,7 +64,7 @@ Get comfortable using computers, pick a text editor, and learn how to learn.
 
 - [How can I become comfortable with computers in a short amount of time?](https://www.quora.com/How-can-I-become-comfortable-with-computers-in-a-short-amount-of-time)
 - [Which Text Editor Should I Use?](https://blog.teamtreehouse.com/which-text-editor-should-i-use)
-- [The Ultimate Skill: Learning How to Learn](https://hackernoon.com/the-ultimate-skill-learning-how-to-learn-9e2fabdc7f1e)
+- [The Ultimate Skill (Learning How to Learn)](https://hackernoon.com/the-ultimate-skill-learning-how-to-learn-9e2fabdc7f1e)
 
 ## <a name="1"></a> 1. Let's get hacking!
 
@@ -799,3 +802,19 @@ Get comfortable working with robotics and computer vision concepts.
 *I got fiat money to spend*
 
 Any university-level intermediate to advanced course on robotics and computer vision would do.
+
+## <a name="9"></a> 9. END
+
+[Content](#content)
+
+### <a name="9.1"></a> 9.1 Things to do now
+
+*Goal*
+
+Get comfortable reading recent research papers, learn to write, start a business.
+
+*Quick reference*
+
+- [How to Read a Paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [Write Like You Talk](http://www.paulgraham.com/talk.html)
+- [How to Start a Startup](http://www.paulgraham.com/start.html)
