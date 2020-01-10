@@ -8,7 +8,7 @@
 - [1. Let's get hacking!](#1)
 	- [1.1 General-purpose programming in Python](#1.1)
 
-- [2. Do the math... yea](#2)
+- [2. Do the math...](#2)
 	- [2.1 Precalculus](#2.1)
 	- [2.2 Linear algebra](#2.2)
 	- [2.3 Calculus](#2.3)
@@ -17,7 +17,7 @@
 	- [2.6 Statistics and probability](#2.6)
 	- [2.7 Discrete mathematics (graphs and stuff)](#2.7)
 
-- [3. Moar programming skills (because magic)](#3)
+- [3. Moar programming skills (because skills)](#3)
 	- [3.1 Object-oriented programming in Java](#3.1)
 	- [3.2 Lower-level programming in C](#3.2)
 	- [3.3 Functional programming in Standard ML, Racket, and Ruby](#3.3)
@@ -31,7 +31,7 @@
 	- [5.2 Computer architecture](#5.2)
 	- [5.3 Operating systems](#5.3)
 
-- [6. The other science (because we smart)](#6)
+- [6. The other science (because smart)](#6)
 	- [6.1 Classical mechanics](#6.1)
 	- [6.1 Electromagnetism](#6.2)
 	- [6.3 Quantum mechanics](#6.3)
@@ -97,17 +97,17 @@ Get fluent in at least one programming language (Python is a good choice).
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Getting Started with Python](https://www.coursera.org/learn/python) | University of Michigan (Coursera) | 12 hours | self-paced | - |
-| [Python Data Structures](https://www.coursera.org/learn/python-data) | University of Michigan (Coursera) | 10 hours | self-paced | Getting Started with Python |
-| [Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data) | University of Michigan (Coursera) | 15 hours | self-paced | Python Data Structures |
-| [Using Databases with Python](https://www.coursera.org/learn/python-databases) | University of Michigan (Coursera) | 12 hours | self-paced | Using Python to Access Web Data |
-| [Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization) | University of Michigan (Coursera) | 8 hours | self-paced | Using Databases with Python |
+| [Getting Started with Python](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188600396&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython) | University of Michigan (Coursera) | 12 hours | self-paced | - |
+| [Python Data Structures](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188600498&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data) | University of Michigan (Coursera) | 10 hours | self-paced | Getting Started with Python |
+| [Using Python to Access Web Data](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.8910376444&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-network-data) | University of Michigan (Coursera) | 15 hours | self-paced | Python Data Structures |
+| [Using Databases with Python](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.1560524593&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-databases) | University of Michigan (Coursera) | 12 hours | self-paced | Using Python to Access Web Data |
+| [Retrieving, Processing, and Visualizing Data with Python](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.4065213233&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fpython-data-visualization) | University of Michigan (Coursera) | 8 hours | self-paced | Using Databases with Python |
 
 *I got fiat money to spend*
 
 [Donate it to me!](https://www.paypal.me/michaelsjoeberg)
 
-## <a name="2"></a> 2. Do the math... Yea
+## <a name="2"></a> 2. Do the math...
 
 [Content](#content)
 
@@ -256,13 +256,14 @@ Get comfortable working with statistics and probability.
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
 | [Think Stats (Exploratory Data Analysis)](https://amzn.to/30boLQO) | Textbook | 9781491907337 | Amazon | - |
+| [Probability: For the Enthusiastic Beginner](https://amzn.to/39XUEyw) | Textbook | 9781523318674 | Amazon | - |
 
 *I hate reading*
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Introduction to Probability and Data](https://www.coursera.org/learn/probability-intro) | Duke University (Coursera) | 22 hours | self-paced | - |
-| [Basic Statistics](https://www.coursera.org/learn/basic-statistics) | Duke University (Coursera) | 36 hours | self-paced | Introduction to Probability and Data |
+| [Introduction to Probability and Data](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.2412797405&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke University (Coursera) | 22 hours | self-paced | - |
+| [Basic Statistics](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188597268&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbasic-statistics) | University of Amsterdam (Coursera) | 37 hours | self-paced | Introduction to Probability and Data |
 
 *I got fiat money to spend*
 
@@ -284,7 +285,7 @@ Get comfortable with discrete mathematics concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Discrete Mathematics](https://www.coursera.org/learn/discrete-mathematics) | Shanghai Jiao Tong University (Coursera) | 38 hours | self-paced | - |
+| [Discrete Mathematics](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188598110&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdiscrete-mathematics) | Shanghai Jiao Tong University (Coursera) | 38 hours | self-paced | - |
 
 *I got fiat money to spend*
 
@@ -320,9 +321,9 @@ Get comfortable with object-oriented programming (Java is a good choice).
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | Duke University (Coursera) | 24 hours | self-paced | - |
-| [Principles of Software Design](https://www.coursera.org/learn/java-programming-design-principles) | Duke University (Coursera) | 21 hours | self-paced | Object Oriented Programming in Java |
-| [Build a Recommendation System](https://www.coursera.org/learn/java-programming-recommender) | Duke University (Coursera) | 8 hours | self-paced | Principles of Software Design |
+| [Object Oriented Programming in Java](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188600004&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java) | Duke University (Coursera) | 24 hours | self-paced | - |
+| [Principles of Software Design](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10253026294&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles) | Duke University (Coursera) | 21 hours | self-paced | Object Oriented Programming in Java |
+| [Build a Recommendation System](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.6355988116&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) | Duke University (Coursera) | 8 hours | self-paced | Principles of Software Design |
 
 *I got fiat money to spend*
 
@@ -393,9 +394,9 @@ Get familiar with functional programming concepts (Standard ML, Racket, and Ruby
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | University of Washington (Coursera) | 35 hours | self-paced | - |
-| [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | University of Washington (Coursera) | 19 hours | self-paced | Programming Languages, Part A |
-| [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | University of Washington (Coursera) | 21 hours | self-paced | Programming Languages, Part B |
+| [Programming Languages, Part A](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188600362&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) | University of Washington (Coursera) | 35 hours | self-paced | - |
+| [Programming Languages, Part B](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10158868982&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | University of Washington (Coursera) | 19 hours | self-paced | Programming Languages, Part A |
+| [Programming Languages, Part C](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188600370&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | University of Washington (Coursera) | 21 hours | self-paced | Programming Languages, Part B |
 
 *I got fiat money to spend*
 
@@ -421,9 +422,9 @@ Get comfortable with computing and computational complexity concepts.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines) | Princeton University (Coursera) | 28 hours | self-paced | - |
-| [Principles of Computing, Part 1](https://www.coursera.org/learn/principles-of-computing-1) | Rice University (Coursera) | 23 hours | self-paced | - |
-| [Principles of Computing, Part 2](https://www.coursera.org/learn/principles-of-computing-2) | Rice University (Coursera) | 19 hours | self-paced | Principles of Computing, Part 1 |
+| [Algorithms, Theory, and Machines](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.12208182484&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton University (Coursera) | 28 hours | self-paced | - |
+| [Principles of Computing, Part 1](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10158868892&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprinciples-of-computing-1) | Rice University (Coursera) | 23 hours | self-paced | - |
+| [Principles of Computing, Part 2](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10026082166&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprinciples-of-computing-2) | Rice University (Coursera) | 19 hours | self-paced | Principles of Computing, Part 1 |
 
 *I got fiat money to spend*
 
@@ -449,10 +450,10 @@ Get comfortable working with algorithms.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) | Stanford University (Coursera) | 21 hours | self-paced | - |
-| [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | Stanford University (Coursera) | 18 hours | self-paced | Divide and Conquer, Sorting and Searching, and Randomized Algorithms |
-| [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | Stanford University (Coursera) | 22 hours | self-paced | Graph Search, Shortest Paths, and Data Structures |
-| [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | Stanford University (Coursera) | 19 hours | self-paced | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming |
+| [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188598144&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-divide-conquer) | Stanford University (Coursera) | 21 hours | self-paced | - |
+| [Graph Search, Shortest Paths, and Data Structures](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188598804&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-graphs-data-structures) | Stanford University (Coursera) | 18 hours | self-paced | Divide and Conquer, Sorting and Searching, and Randomized Algorithms |
+| [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10158867570&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-greedy) | Stanford University (Coursera) | 22 hours | self-paced | Graph Search, Shortest Paths, and Data Structures |
+| [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10158869190&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-npcomplete) | Stanford University (Coursera) | 19 hours | self-paced | Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming |
 
 *I got fiat money to spend*
 
@@ -502,8 +503,8 @@ Get familiar with computer architecture.
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Build a Modern Computer from First Principles, Part 1](https://www.coursera.org/learn/build-a-computer) | The Hebrew University of Jerusalem (Coursera) | 19 hours | self-paced | - |
-| [Build a Modern Computer from First Principles, Part 2](https://www.coursera.org/learn/nand2tetris2) | The Hebrew University of Jerusalem (Coursera) | 36 hours | self-paced | - |
+| [Build a Modern Computer from First Principles, Part 1](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188597420&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fbuild-a-computer) | The Hebrew University of Jerusalem (Coursera) | 19 hours | self-paced | - |
+| [Build a Modern Computer from First Principles, Part 2](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188597430&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fnand2tetris2) | The Hebrew University of Jerusalem (Coursera) | 36 hours | self-paced | - |
 
 *I got fiat money to spend*
 
@@ -527,7 +528,7 @@ Get comfortable with operating system concepts (in particular Unix, command-line
 | :----- | :----- | :----- | :--- | :------------ |
 | [Introduction to Operating Systems](https://eu.udacity.com/course/introduction-to-operating-systems--ud923) | Georgia Institute of Technology (Udacity) | 40 hours | self-paced | - |
 | [Advanced Operating Systems](https://eu.udacity.com/course/advanced-operating-systems--ud189) | Georgia Institute of Technology (Udacity) | 40 hours | self-paced | Introduction to Operating Systems |
-| [The Unix Workbench](https://www.coursera.org/learn/unix) | John Hopkins University (Coursera) | 17 hours | self-paced | - |
+| [The Unix Workbench](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10676442532&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | John Hopkins University (Coursera) | 17 hours | self-paced | - |
 
 *I got fiat money to spend*
 
@@ -591,7 +592,7 @@ Get familiar with quantum mechanics concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Introduction to Quantum Mechanics](https://amzn.to/2O67LVV) |        | Textbook | 9781107189638 | Amazon | - |
+| [Introduction to Quantum Mechanics](https://amzn.to/2O67LVV) | Textbook | 9781107189638 | Amazon | - |
 
 *I hate reading*
 
@@ -659,8 +660,8 @@ Get familiar with performance programming (C++ is a good choice).
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [C++ For C Programmers, Part A](https://www.coursera.org/learn/c-plus-plus-a) | UC Santa Cruz (Coursera) | 17 hours | self-paced | - |
-| [C++ For C Programmers, Part B](https://www.coursera.org/learn/c-plus-plus-b) | UC Santa Cruz (Coursera) | 14 hours | self-paced | C++ For C Programmers, Part A |
+| [C++ For C Programmers, Part A](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.1859934509&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-a) | UC Santa Cruz (Coursera) | 17 hours | self-paced | - |
+| [C++ For C Programmers, Part B](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.5541584381&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fc-plus-plus-b) | UC Santa Cruz (Coursera) | 14 hours | self-paced | C++ For C Programmers, Part A |
 
 *I got fiat money to spend*
 
@@ -686,7 +687,7 @@ Get familiar with parallel programming (Scala is a good choice).
 
 | Course | Source | Effort | Mode | Prerequisites |
 | :----- | :----- | :----- | :--- | :------------ |
-| [Parallel programming](https://www.coursera.org/learn/parprog1) | EPFL (Coursera) | 16 hours | self-paced | - |
+| [Parallel programming](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.10188600076&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fparprog1) | EPFL (Coursera) | 16 hours | self-paced | - |
 
 *I got fiat money to spend*
 
@@ -741,13 +742,6 @@ Get comfortable working with various web technologies (Python Flask and MongoDB 
 | [Flask documentation](http://flask.palletsprojects.com/en/1.1.x/) | HTML | - | - | - |
 | [MongoDB (The Definitive Guide)](https://amzn.to/2O3ZbXH) | Textbook | 9781449344689 | Amazon | - |
 
-*I hate reading*
-
-| Course | Source | Effort | Mode | Prerequisites |
-| :----- | :----- | :----- | :--- | :------------ |
-| [Cloud Computing Applications, Part 1](https://www.coursera.org/learn/cloud-applications-part1) | University of Illinois at Urbana-Champaign (Coursera) | 13 hours | self-paced | - |
-| [Cloud Computing Applications, Part 2](https://www.coursera.org/learn/cloud-applications-part2) | University of Illinois at Urbana-Champaign (Coursera) | 15 hours | self-paced | Cloud Computing Applications, Part 1 |
-
 *I got fiat money to spend*
 
 [Donate it to me!](https://www.paypal.me/michaelsjoeberg)
@@ -765,12 +759,6 @@ Get comfortable working with artificial intelligence and machine learning concep
 | [Artificial Intelligence (A Modern Approach)](https://amzn.to/30kknv2) | Textbook | 9789332543515 | Amazon | - |
 | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://amzn.to/2M0wzf4) | Textbook | 9781491962299 | Amazon | - |
 
-*I hate reading*
-
-| Course | Source | Effort | Mode | Prerequisites |
-| :----- | :----- | :----- | :--- | :------------ |
-| [Machine Learning](https://www.coursera.org/learn/machine-learning) | Stanford University | 55 hours | self-paced | - |
-
 *I got fiat money to spend*
 
 Any university-level intermediate to advanced course on artificial intelligence and machine learning would do.
@@ -787,17 +775,6 @@ Get comfortable working with robotics and computer vision concepts.
 | :---------- | :----- | :----- | :----- | :------------ |
 | [Modern Robotics (Mechanics, Planning, and Control)](https://amzn.to/306dMsH) | Textbook | 9781107156302 | Amazon | - |
 | [Computer Vision (Algorithms and Applications)](https://amzn.to/32OvMVq) | Textbook | 9781848829343 | Amazon | - |
-
-*I hate reading*
-
-| Course | Source | Effort | Mode | Prerequisites |
-| :----- | :----- | :----- | :--- | :------------ |
-| [Foundations of Robot Motion](https://www.coursera.org/learn/modernrobotics-course1) | Northwestern University (Coursera) | 21 hours | self-paced | - |
-| [Robot Kinematics](https://www.coursera.org/learn/modernrobotics-course2) | Northwestern University (Coursera) | 17 hours | self-paced | Foundations of Robot Motion |
-| [Robot Dynamics](https://www.coursera.org/learn/modernrobotics-course3) | Northwestern University (Coursera) | 15 hours | self-paced | Robot Kinematics |
-| [Robot Motion Planning and Control](https://www.coursera.org/learn/modernrobotics-course4) | Northwestern University (Coursera) | 15 hours | self-paced | Robot Dynamics |
-| [Robot Manipulation and Wheeled Mobile Robots](https://www.coursera.org/learn/modernrobotics-course5) | Northwestern University (Coursera) | 27 hours | self-paced | Robot Motion Planning and Control |
-| [Mobile Manipulation](https://www.coursera.org/learn/modernrobotics-course6) | Northwestern University (Coursera) | 7 hours | self-paced | Robot Manipulation and Wheeled Mobile Robots |
 
 *I got fiat money to spend*
 
