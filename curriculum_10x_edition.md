@@ -291,7 +291,7 @@ Get comfortable with discrete mathematics concepts.
 
 Any university-level intermediate course on discrete mathematics would do.
 
-## <a name="3"></a> 3 Moar programming skills (because magic)
+## <a name="3"></a> 3 Moar programming skills (because skills)
 
 [Content](#content)
 
@@ -534,7 +534,7 @@ Get comfortable with operating system concepts (in particular Unix, command-line
 
 Any university-level intermediate course on operating systems would do.
 
-## <a name="6"></a> 6. The other science (because we smart)
+## <a name="6"></a> 6. The other science (because smart)
 
 [Content](#content)
 
