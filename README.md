@@ -1089,11 +1089,6 @@ Get great with quantum computing.
 
 Get great with artifical general intelligence.
 
-*Quick reference*
-
-- [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
-- [Qiskit](https://qiskit.org/)
-
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
