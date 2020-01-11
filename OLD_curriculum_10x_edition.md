@@ -1,51 +1,53 @@
 # The Ultimate Computer Science and Engineering Curriculum (10x Edition)
 
+From first-year undergraduate to final-year master.
+
 ## <a name="content"></a> Content
 
 - [0. BEGIN](#0)
-	- [0.1 Things to do first](#0.1) 
+	- [0.1 Things to do first](#0.1)
 
-- [1. Let's get hacking!](#1)
-	- [1.1 General-purpose programming in Python](#1.1)
-
-- [2. Do the math...](#2)
-	- [2.1 Precalculus](#2.1)
-	- [2.2 Linear algebra](#2.2)
-	- [2.3 Calculus](#2.3)
-	- [2.4 Multivariable calculus](#2.4)
-	- [2.5 Differential equations](#2.5)
-	- [2.6 Statistics and probability](#2.6)
-	- [2.7 Discrete mathematics (graphs and stuff)](#2.7)
-
-- [3. Moar programming skills (because skills)](#3)
-	- [3.1 Object-oriented programming in Java](#3.1)
-	- [3.2 Lower-level programming in C](#3.2)
-	- [3.3 Functional programming in Standard ML, Racket, and Ruby](#3.3)
-
-- [4. The science in computer science](#4)
-	- [4.1 Computing and computational complexity](#4.1)
-	- [4.2 Algorithms](#4.2)
-
-- [5. Computer systems (circuits, gates, and stuff)](#5)
-	- [5.1 Electrical engineering and circuit theory](#5.1)
-	- [5.2 Computer architecture](#5.2)
-	- [5.3 Operating systems](#5.3)
-
-- [6. The other science (because smart)](#6)
-	- [6.1 Classical mechanics](#6.1)
-	- [6.1 Electromagnetism](#6.2)
-	- [6.3 Quantum mechanics](#6.3)
-
-- [7. Even moar programming skills (because unlimited power!)](#7)
-	- [7.1 Logic programming in Prolog](#7.1)
-	- [7.2 Performance programming in C++](#7.2)
-	- [7.3 Parallel programming in Scala](#7.3)
-	- [7.4 Pure functional programming in Haskell](#7.4)
-
-- [8. Let's build some cool sh*t](#8)
-	- [8.1 Web technologies and cloud computing](#8.1)
-	- [8.2 Artificial intelligence and machine learning](#8.2)
-	- [8.3 Robotics and computer vision](#8.3)
+- [1. GET STARTED](#1)
+	- [1.1 Let's get hacking!](#1.1)
+		- [General-purpose programming in Python](#1.1.1)
+	
+	- [1.2 Do the math...](#1.1)
+		- [Linear algebra](#2.2)
+		- [Calculus](#2.3)
+		- [Multivariable calculus](#2.4)
+		- [Differential equations](#2.5)
+		- [Statistics and probability](#2.6)
+		- [Discrete mathematics (graphs and stuff)](#2.7)
+	
+	- [3. Moar programming skills (because skills)](#3)
+		- [3.1 Object-oriented programming in Java](#3.1)
+		- [3.2 Lower-level programming in C](#3.2)
+		- [3.3 Functional programming in Standard ML, Racket, and Ruby](#3.3)
+	
+	- [4. The science in computer science](#4)
+		- [4.1 Computing and computational complexity](#4.1)
+		- [4.2 Algorithms](#4.2)
+	
+	- [5. Computer systems (circuits, gates, and stuff)](#5)
+		- [5.1 Electrical engineering and circuit theory](#5.1)
+		- [5.2 Computer architecture](#5.2)
+		- [5.3 Operating systems](#5.3)
+	
+	- [6. The other science (because smart)](#6)
+		- [6.1 Classical mechanics](#6.1)
+		- [6.1 Electromagnetism](#6.2)
+		- [6.3 Quantum mechanics](#6.3)
+	
+	- [7. Even moar programming skills (because unlimited power!)](#7)
+		- [7.1 Logic programming in Prolog](#7.1)
+		- [7.2 Performance programming in C++](#7.2)
+		- [7.3 Parallel programming in Scala](#7.3)
+		- [7.4 Pure functional programming in Haskell](#7.4)
+	
+	- [8. Let's build some cool sh*t](#8)
+		- [8.1 Web technologies and cloud computing](#8.1)
+		- [8.2 Artificial intelligence and machine learning](#8.2)
+		- [8.3 Robotics and computer vision](#8.3)
 
 - [9. END](#0)
 	- [9.1 Things to do now](#9.1) 
@@ -90,8 +92,8 @@ Get fluent in at least one programming language (Python is a good choice).
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Think Python (How to Think Like a Computer Scientist)](https://amzn.to/2O3YuO5) | Textbook | 9781491939369 | Amazon | -
-[Learn Python The Hard Way](https://learnpythonthehardway.org/book/) | HTML, PDF | - | - | - |
+| [Think Python: How to Think Like a Computer Scientist](https://amzn.to/35EGDCj) | Textbook | 9781491939369 | Amazon | -
+[Fluent Python: Clear, Concise, and Effective Programming](https://amzn.to/36JY8m6) | Textbook | 9781491946008 | Amazon | - |
 
 *I hate reading*
 
@@ -111,33 +113,7 @@ Get fluent in at least one programming language (Python is a good choice).
 
 [Content](#content)
 
-### <a name="2.1"></a> 2.1 Precalculus
-
-*Goal*
-
-Get comfortable with precalculus concepts.
-
-*Practice*
-
-- [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
-
-*Reading list*
-
-| Title       | Type   | ISBN   | Source | Prerequisites |
-| :---------- | :----- | :----- | :----- | :------------ |
-|             |        |        |        |               |
-
-*I hate reading*
-
-| Course | Source | Effort | Mode | Prerequisites |
-| :----- | :----- | :----- | :--- | :------------ |
-| [Precalculus](https://www.edx.org/course/precalculus-asux-mat170x) | Arizona State University (edX) | 135 hours | self-paced | - |
-
-*I got fiat money to spend*
-
-Any university-level course on precalculus should do.
-
-### <a name="2.2"></a> 2.2 Linear algebra
+### <a name="2.1"></a> 2.1 Linear algebra
 
 *Goal*
 
@@ -151,7 +127,7 @@ Get comfortable with linear algebra concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Linear Algebra (Undergraduate Texts in Mathematics)](https://amzn.to/30oVoqk) | Textbook | 9780387964126 | Amazon | Precalculus |
+| [Linear Algebra (Undergraduate Texts in Mathematics)](https://amzn.to/2TdX0DA) | Textbook | 9780387964126 | Amazon | Precalculus |
 
 *I hate reading*
 
@@ -163,7 +139,7 @@ Get comfortable with linear algebra concepts.
 
 Any university-level course on linear algebra should do.
 
-### <a name="2.3"></a> 2.3 Calculus
+### <a name="2.2"></a> 2.2 Calculus
 
 *Goal*
 
@@ -178,7 +154,7 @@ Get comfortable with calculus concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Calculus With Applications (Undergraduate Texts in Mathematics)](https://amzn.to/3042jdg) | Textbook | 9781461479451 | Amazon | Linear Algebra |
+| [Calculus With Applications (Undergraduate Texts in Mathematics)](https://amzn.to/2uvZm6e) | Textbook | 9781461479451 | Amazon | Linear Algebra |
 
 *I hate reading*
 
@@ -192,7 +168,7 @@ Get comfortable with calculus concepts.
 
 Any university-level course on differential- and integral calculus should do.
 
-### <a name="2.4"></a> 2.4 Multivariable calculus
+### <a name="2.3"></a> 2.3 Multivariable calculus
 
 *Goal*
 
@@ -206,13 +182,13 @@ Get familiar with multivariable calculus concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Multivariable Calculus with Applications (Undergraduate Texts in Mathematics)](https://amzn.to/30b4ZGg) | Textbook | 9783319740720 | Amazon | Calculus |
+| [Multivariable Calculus with Applications (Undergraduate Texts in Mathematics)](https://amzn.to/2R5C7aT) | Textbook | 9783319740720 | Amazon | Calculus |
 
 *I got fiat money to spend*
 
 Any university-level course on multivariable calculus would do.
 
-### <a name="2.5"></a> 2.5 Differential equations
+### <a name="2.4"></a> 2.4 Differential equations
 
 *Goal*
 
@@ -241,7 +217,7 @@ Get familiar with differential equations concepts.
 
 Any university-level course on differential equations should do.
 
-### <a name="2.6"></a> 2.6 Statistics and probability
+### <a name="2.5"></a> 2.5 Statistics and probability
 
 *Goal*
 
@@ -269,7 +245,7 @@ Get comfortable working with statistics and probability.
 
 Any university-level introductory course on statistics and probability would do.
 
-### <a name="2.7"></a> 2.7 Discrete mathematics (graphs and stuff)
+### <a name="2.6"></a> 2.6 Discrete mathematics (graphs and stuff)
 
 *Goal*
 
