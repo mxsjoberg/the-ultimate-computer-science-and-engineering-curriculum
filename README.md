@@ -1092,6 +1092,7 @@ Get great with artifical general intelligence.
 *Quick reference*
 
 - [OpenAI: Resources](https://openai.com/resources/)
+- [ProjectAGI](https://github.com/ProjectAGI)
 
 *Reading list*
 
