@@ -1036,7 +1036,7 @@ A postgraduate-level course on computer vision would do.
 
 [Table of contents](#content)
 
-### <a name="4.1"></a> 4.1 Things to do now
+### <a name="4.1"></a> 4.1 Things to do now (examples)
 
 #### <a name="4.1.1"></a> 4.1.1 Space science and engineering
 
@@ -1069,7 +1069,7 @@ Get great with quantum computing.
 *Quick reference*
 
 - [IBM Quantum Computing](https://www.ibm.com/quantum-computing/)
-- [Qiskit](https://qiskit.org/)
+- [Open-Source Quantum Software Projects](https://github.com/qosf/awesome-quantum-software)
 
 *Reading list*
 
@@ -1089,10 +1089,15 @@ Get great with quantum computing.
 
 Get great with artifical general intelligence.
 
+*Quick reference*
+
+- [OpenAI: Resources](https://openai.com/resources/)
+
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
+| [An Introduction to Kolmogorov Complexity and Its Applications (Texts in Computer Science)](https://amzn.to/2QOIhgF) | Textbook | 9783030112974 | Amazon | - |
 | [Artificial General Intelligence (Cognitive Technologies)](https://amzn.to/2Nh64DA) | Textbook | 9783540237334 | Amazon | - |
 | [Theoretical Foundations of Artificial General Intelligence (Atlantis Thinking Machines)](https://amzn.to/36Mf1MX) | Textbook | 9789491216619 | Amazon | - |
 
