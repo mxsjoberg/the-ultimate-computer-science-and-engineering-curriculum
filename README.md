@@ -95,13 +95,14 @@ Essential skills from first-year undergraduate-level to postgraduate-level, self
 
 *Goal*
 
-Get comfortable with computers, pick a text editor, and learn how to learn.
+Get comfortable with computers, pick a text editor, learn how to learn, and brush up on precalculus.
 
 *Quick reference*
 
 - [How can I become comfortable with computers in a short amount of time?](https://www.quora.com/How-can-I-become-comfortable-with-computers-in-a-short-amount-of-time)
 - [Which Text Editor Should I Use?](https://blog.teamtreehouse.com/which-text-editor-should-i-use)
 - [The Ultimate Skill (Learning How to Learn)](https://hackernoon.com/the-ultimate-skill-learning-how-to-learn-9e2fabdc7f1e)
+- [Khan Academy: Precalculus](https://www.khanacademy.org/math/precalculus)
 
 ## <a name="1"></a> 1. GET STARTED
 
