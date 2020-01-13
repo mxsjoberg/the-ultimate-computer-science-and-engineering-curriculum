@@ -37,7 +37,7 @@ Essential skills from first-year undergraduate-level to postgraduate-level, self
 		- [1.6.3 Operating systems](#1.6.3)
 		- [1.6.4 Databases](#1.6.4)
 
-	- [1.7 Ready to build!](#1.7)
+	- [1.X Ready to build?](#1.X)
 
 - [2. GET GOOD](#2)
 	- [2.1 Moar programming skills (and stranger?)](#2.1)
@@ -47,7 +47,7 @@ Essential skills from first-year undergraduate-level to postgraduate-level, self
 		- [2.2.1 Differential equations (ODE and PDE)](#2.2.1)
 		- [2.2.2 Number theory](#2.2.2)
 		
-	- [2.3 The useful science in computer science](#2.3)
+	- [2.3 The really useful science in computer science](#2.3)
 		- [2.3.1 Computational models](#2.3.1)
 		- [2.3.2 Cryptography](#2.3.2)
 
@@ -57,6 +57,8 @@ Essential skills from first-year undergraduate-level to postgraduate-level, self
 	- [2.5 Applications](#2.5)
 		- [2.5.1 Machine learning](#2.5.1)
 		- [2.5.2 Robotics](#2.5.2)
+
+	- [2.X So... what now?](#2.X)
 
 - [3. GET GREAT](#3)
 	- [3.1 Even moar programming sills (because unlimited power!)](#3.1)
@@ -82,7 +84,7 @@ Essential skills from first-year undergraduate-level to postgraduate-level, self
 		- [3.5.3 Computer vision](#3.5.3)
 
 - [4. END](#4)
-	- [4.1 Things to do now](#4.1)
+	- [4.1 Things to do now (or not, your choice!)](#4.1)
 		- [4.1.1 Space science and engineering](#4.1.1)
 		- [4.1.2 Quantum computing](#4.1.2)
 		- [4.1.3 Artifical general intelligence](#4.1.3)
@@ -551,7 +553,7 @@ Get familiar with databases concepts.
 
 A undergraduate-level course on databases would do.
 
-### <a name="1.7"></a> 1.7 Ready to build!
+### <a name="1.X"></a> 1.X Ready to build!
 
 *Goal*
 
@@ -654,7 +656,7 @@ Get familiar with number theory concepts.
 
 An advanced undergraduate-level course on number theory would do.
 
-### <a name="2.3"></a> 2.3 The useful science in computer science
+### <a name="2.3"></a> 2.3 The really useful science in computer science
 
 #### <a name="2.3.1"></a> 2.3.1 Computational models
 
@@ -683,8 +685,7 @@ Get familiar with cryptography concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Models of Computation: An Introduction to Computability Theory (Undergraduate Topics in Computer Science)](https://amzn.to/2R2C4g0) | Textbook | 9781848824331 | Amazon | Computer science and algorithms basics |
-| [Structure and Interpretation of Computer Programs](https://amzn.to/37VyOK5) | Textbook | 9780262510875 | Amazon | Computer science and algorithms basics |
+| [Cryptography Engineering: Design Principles and Practical Applications](https://amzn.to/2Teutha) | Textbook | 9780470474242 | Amazon | Computer science and algorithms basics |
 
 *I got fiat money to spend*
 
@@ -749,7 +750,7 @@ Get familiar with robotics concepts.
 
 An advanced undergraduate-level course on robotics would do.
 
-### <a name="2.6"></a> 2.6 So... what now?
+### <a name="2.X"></a> 2.X So... what now?
 
 *Goal*
 
@@ -938,8 +939,8 @@ Get familiar with optimisation and evolutionary algorithms concepts.
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Evolutionary Optimization Algorithms](https://amzn.to/37W6vez) | Textbook | 9780470937419 | Amazon | Graph theory |
 | [Introduction to Genetic Algorithms for Scientists and Engineers](https://amzn.to/35G0cKB) | Textbook | 9789810236021 | Amazon | Graph theory |
+| [Evolutionary Optimization Algorithms](https://amzn.to/37W6vez) | Textbook | 9780470937419 | Amazon | Graph theory |
 
 *I got fiat money to spend*
 
@@ -1037,7 +1038,7 @@ A postgraduate-level course on computer vision would do.
 
 [Table of contents](#content)
 
-### <a name="4.1"></a> 4.1 Things to do now (examples)
+### <a name="4.1"></a> 4.1 Things to do now (or not, your choice!)
 
 #### <a name="4.1.1"></a> 4.1.1 Space science and engineering
 
