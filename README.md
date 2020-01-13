@@ -1,5 +1,7 @@
 # The Ultimate Computer Science and Engineering Curriculum (10x Edition)
 
+**[TRELLO TEMPLATE BOARD](https://trello.com/b/9E5aous0)**
+
 Essential skills from first-year undergraduate-level to postgraduate-level, self-paced, and self-study.
 
 ## <a name="content"></a> Table of contents
