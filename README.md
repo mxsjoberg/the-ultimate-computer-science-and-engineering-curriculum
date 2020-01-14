@@ -1009,12 +1009,23 @@ A postgraduate-level course on intelligent agents would do.
 
 Get familiar with neural networks and deep learning concepts.
 
+*Quick reference*
+
+- [Deep Learning Basics](https://github.com/lexfridman/mit-deep-learning/blob/master/tutorial_deep_learning_basics/deep_learning_basics.ipynb)
+
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
 | [Deep Learning with Python](https://amzn.to/2R5Z7qi) | Textbook | 9781617294433 | Amazon | Python programming |
 | [Reinforcement Learning: An Introduction (Adaptive Computation and Machine Learning series)](https://amzn.to/36JeZFD) | Textbook | 9780262039246 | Amazon | - |
+
+*I hate reading*
+
+| Course | Source | Effort | Mode | Prerequisites |
+| :----- | :----- | :----- | :--- | :------------ |
+| [Deep Learning Specialization](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.11421701896&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) | deeplearning.ai (Coursera) | 132 hours | self-paced | - |
+
 
 *I got fiat money to spend*
 
