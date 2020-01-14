@@ -1026,7 +1026,6 @@ Get familiar with neural networks and deep learning concepts.
 | :----- | :----- | :----- | :--- | :------------ |
 | [Deep Learning Specialization](https://click.linksynergy.com/link?id=WcigFHeaVBw&offerid=467035.11421701896&type=2&murl=https%3A%2F%2Fwww.coursera.org%2Fspecializations%2Fdeep-learning) | deeplearning.ai (Coursera) | 132 hours | self-paced | - |
 
-
 *I got fiat money to spend*
 
 A postgraduate-level course on neural networks and deep learning would do.
