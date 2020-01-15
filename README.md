@@ -51,7 +51,7 @@ Essential skills from first-year undergraduate-level to postgraduate-level, self
 		
 	- [2.3 The really useful science in computer science](#2.3)
 		- [2.3.1 Computational models](#2.3.1)
-		- [2.3.2 Cryptography](#2.3.2)
+		- [2.3.2 Compilers and formal language](#2.3.2)
 
 	- [2.4 Some more engineering stuff (because smart)](#2.4)
 		- [2.4.1 Signals and systems](#2.4.1)
@@ -59,6 +59,7 @@ Essential skills from first-year undergraduate-level to postgraduate-level, self
 	- [2.5 Applications](#2.5)
 		- [2.5.1 Machine learning](#2.5.1)
 		- [2.5.2 Robotics](#2.5.2)
+		- [2.5.3 Cryptography](#2.5.3)
 
 	- [2.X So... what now?](#2.X)
 
@@ -677,21 +678,21 @@ Get familiar with computational models concepts.
 
 An advanced undergraduate-level course on computational models would do.
 
-#### <a name="2.3.2"></a> 2.3.2 Cryptography
+#### <a name="2.3.2"></a> 2.3.2 Compilers and formal language
 
 *Goal*
 
-Get familiar with cryptography concepts.
+Get familiar with compilers and formal language concepts.
 
 *Reading list*
 
 | Title       | Type   | ISBN   | Source | Prerequisites |
 | :---------- | :----- | :----- | :----- | :------------ |
-| [Cryptography Engineering: Design Principles and Practical Applications](https://amzn.to/2Teutha) | Textbook | 9780470474242 | Amazon | Computer science and algorithms basics |
+| [Introduction to Compiler Design (Undergraduate Topics in Computer Science)](https://amzn.to/2R0c7yZ) | Textbook | 9780857298287 | Amazon | Computer science basics |
 
 *I got fiat money to spend*
 
-An advanced undergraduate-level course on cryptography would do.
+An undergraduate-level course on compilers and formal language would do.
 
 ### <a name="2.4"></a> 2.4 Some more engineering stuff (because smart)
 
@@ -751,6 +752,22 @@ Get familiar with robotics concepts.
 *I got fiat money to spend*
 
 An advanced undergraduate-level course on robotics would do.
+
+#### <a name="2.5.3"></a> 2.5.3 Cryptography
+
+*Goal*
+
+Get familiar with cryptography concepts.
+
+*Reading list*
+
+| Title       | Type   | ISBN   | Source | Prerequisites |
+| :---------- | :----- | :----- | :----- | :------------ |
+| [Cryptography Engineering: Design Principles and Practical Applications](https://amzn.to/2Teutha) | Textbook | 9780470474242 | Amazon | Computer science and algorithms basics |
+
+*I got fiat money to spend*
+
+An advanced undergraduate-level course on cryptography would do.
 
 ### <a name="2.X"></a> 2.X So... what now?
 
